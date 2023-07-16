@@ -9,4 +9,5 @@ make
 build-essential
 git
 fish
+flatpak
 
