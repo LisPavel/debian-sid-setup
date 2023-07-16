@@ -10,4 +10,5 @@ build-essential
 git
 fish
 flatpak
-
+distrobox
+keepassxc
