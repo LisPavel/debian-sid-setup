@@ -8,3 +8,5 @@ inotify-tools
 make
 build-essential
 git
+fish
+
