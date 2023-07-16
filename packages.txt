@@ -1,0 +1,10 @@
+nala
+htop
+neofetch
+btrfs-progs
+python3-btrfsutil
+gawk
+inotify-tools
+make
+build-essential
+git
